@@ -83,7 +83,7 @@ Dari folder src:
 .\Tucil.exe <nama_file.obj> <max_depth>
 
 Contoh:
-.\Tucil.exe pumpkin.obj 5
+.\Tucil.exe pumpkin.obj 6
 
 ---
 
